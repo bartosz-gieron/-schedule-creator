@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Test1.AddResourcesForm">
+    <Position X="5.5" Y="3.5" Width="2" />
+    <Members>
+      <Field Name="addResourceBtn" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="numericUpDownResources" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+      <Field Name="textBoxResDescr" Hidden="true" />
+      <Field Name="textBoxResName" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAACAAAEACAAABAAAACAIAACAAAAAAAAAAABAAAACSE=</HashCode>
+      <FileName>AddResourcesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.AddStatForm">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <Members>
+      <Field Name="addStationButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="numericUpDown_nb_workers" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+      <Field Name="textBox_stat_descr" Hidden="true" />
+      <Field Name="textBox_stat_name" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAABAAAECAIAACAAAAAgAAAAAQEIAAACA=</HashCode>
+      <FileName>AddStatForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.AddTimeTableForm">
+    <Position X="1.25" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="addMainBtn" Hidden="true" />
+      <Field Name="addWorkerBtn" Hidden="true" />
+      <Field Name="comboBox_month" Hidden="true" />
+      <Field Name="comboBox_resources" Hidden="true" />
+      <Field Name="comboBox_station" Hidden="true" />
+      <Field Name="comboBox_year" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="listBox_workers" Hidden="true" />
+      <Field Name="listView_TimeTable" Hidden="true" />
+      <Field Name="numericUpDown_Id" Hidden="true" />
+      <Field Name="textBox_leave" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>GABUAAAACKEAEDQ6QACAEQAiAAQEAKACAAAIAEQQKAQ=</HashCode>
+      <FileName>AddTimeTableForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.AddWorkerForm">
+    <Position X="4.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="add_employer_btn" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+      <Field Name="textBox_city" Hidden="true" />
+      <Field Name="textBox_Code" Hidden="true" />
+      <Field Name="textBox_email" Hidden="true" />
+      <Field Name="textBox_name" Hidden="true" />
+      <Field Name="textBox_Pesel" Hidden="true" />
+      <Field Name="textBox_Phone" Hidden="true" />
+      <Field Name="textBox_stat" Hidden="true" />
+      <Field Name="textBox_street" Hidden="true" />
+      <Field Name="textBox_surname" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAACACAIACAgAFIAAgCAIAACBAAAAAgHAAAQCAACCCA=</HashCode>
+      <FileName>AddWorkerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.LogForm">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="infoLabel" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="login" Hidden="true" />
+      <Field Name="Login_bt" Hidden="true" />
+      <Field Name="Password" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAgCAACAAAAACAAAACAAAAQAACAAAAAAQAEAA=</HashCode>
+      <FileName>LogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.MainView">
+    <Position X="13.25" Y="0.5" Width="3" />
+    <Members>
+      <Field Name="addBtn" Hidden="true" />
+      <Field Name="AddBtn_pracownicy" Hidden="true" />
+      <Field Name="AddResourcesBtn" Hidden="true" />
+      <Field Name="addTimeTableBtn" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="database1DataSet" Hidden="true" />
+      <Field Name="DelBtn_pracownicy" Hidden="true" />
+      <Field Name="Deletebtn" Hidden="true" />
+      <Field Name="DeleteResourceBtn" Hidden="true" />
+      <Field Name="deleteTimeTableBtn" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="EditBtn_pracownicy" Hidden="true" />
+      <Field Name="EditResourceBtn" Hidden="true" />
+      <Field Name="Edytuj" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="listbox_harm" Hidden="true" />
+      <Field Name="listBox_resources" Hidden="true" />
+      <Field Name="listbox_station" Hidden="true" />
+      <Field Name="listBox_workers" Hidden="true" />
+      <Field Name="listView_Harm" Hidden="true" />
+      <Field Name="main_control" Hidden="true" />
+      <Field Name="resources_descr" Hidden="true" />
+      <Field Name="station_descr" Hidden="true" />
+      <Field Name="tableBindingSource" Hidden="true" />
+      <Field Name="tableBindingSource1" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+      <Field Name="tableLayoutPanel2" Hidden="true" />
+      <Field Name="tableLayoutPanel3" Hidden="true" />
+      <Field Name="tableLayoutPanel4" Hidden="true" />
+      <Field Name="tableTableAdapter" Hidden="true" />
+      <Field Name="tabPage_harm" Hidden="true" />
+      <Field Name="tabPage_res" Hidden="true" />
+      <Field Name="tabPage_stat" Hidden="true" />
+      <Field Name="tabPage_workers" Hidden="true" />
+      <Field Name="workers_descr" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CBDUAAA1gSSAQCBSgBDACRAyACAKCyAAiuBIIENCACE=</HashCode>
+      <FileName>MainView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.DataBaseHelper">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACCAAAAAAAAA=</HashCode>
+      <FileName>DatabaseHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.FormIntoDatabase">
+    <Position X="9.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAABDAAAAAAAAAAAAAAAAAAAACAAAAAAAAAgAAA=</HashCode>
+      <FileName>FormIntoDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test1.Program">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

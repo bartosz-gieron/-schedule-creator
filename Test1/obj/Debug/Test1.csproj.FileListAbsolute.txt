@@ -1,0 +1,17 @@
+C:\Users\banuk\source\repos\Test1\Test1\bin\Debug\Database1.mdf
+C:\Users\banuk\source\repos\Test1\Test1\bin\Debug\Database1_log.ldf
+C:\Users\banuk\source\repos\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\banuk\source\repos\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\banuk\source\repos\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.LogForm.resources
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.MainView.resources
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.AddStatForm.resources
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.AddWorkerForm.resources
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.AddResourcesForm.resources
+C:\Users\banuk\source\repos\Test1\Test1\obj\Debug\Test1.AddTimeTableForm.resources
